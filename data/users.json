@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "andres",
+        "lastName": "cuenca",
+        "username": "andres1",
+        "hash": "$2a$10$x2UGc3/S2j7p6UqfjvA8k.p7KHs8twJ82KfAUccHt7CrmYTo2Cl56",
+        "id": 2,
+        "dateCreated": "2022-07-20T21:32:25.454Z",
+        "dateUpdated": "2022-07-20T21:32:25.454Z"
+    },
+    {
+        "firstName": "erick",
+        "lastName": "cuenca",
+        "username": "erickcu",
+        "hash": "$2a$10$tnMgD3qG2YXDTYileTbq2ecSIikZWeBDt.U4tIgeALFRdDLccfgwm",
+        "id": 4,
+        "dateCreated": "2022-07-20T23:36:45.898Z",
+        "dateUpdated": "2022-07-20T23:36:45.898Z"
+    },
+    {
+        "firstName": "diego",
+        "lastName": "leiva",
+        "username": "diego",
+        "hash": "$2a$10$oJrDHMLpHY1MQQm1OFB44u8QdVQfasoaQcNBaeG1lLcIXkxugVJve",
+        "id": 5,
+        "dateCreated": "2022-07-21T13:09:50.262Z",
+        "dateUpdated": "2022-07-21T13:09:50.262Z"
+    }
+]
