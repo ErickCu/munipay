@@ -24,8 +24,8 @@ function Nav() {
         <nav className="navbar navbar-expand navbar-dark bg-dark">
             <div className="navbar-nav">
                 <NavLink href="/" exact className="nav-item nav-link">Inicio</NavLink>
-                <NavLink href="/users" className="nav-item nav-link">Gestion de usuarios</NavLink>
-                <a onClick={logout} className="nav-item nav-link">Logout</a>
+                <NavLink href="/users" className="nav-item nav-link">Gestión de usuarios</NavLink>
+                <a onClick={logout} className="nav-item nav-link">Salir</a>
             </div>
             
         </nav>

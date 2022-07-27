@@ -2,28 +2,45 @@
     {
         "firstName": "andres",
         "lastName": "cuenca",
-        "username": "andres1",
+        "username":"asdasd",
+        "correo": "andres1@loja.gob.ec",
         "hash": "$2a$10$x2UGc3/S2j7p6UqfjvA8k.p7KHs8twJ82KfAUccHt7CrmYTo2Cl56",
         "id": 2,
+        "rol": "controlador",
         "dateCreated": "2022-07-20T21:32:25.454Z",
         "dateUpdated": "2022-07-20T21:32:25.454Z"
     },
     {
         "firstName": "erick",
         "lastName": "cuenca",
-        "username": "erickcu",
+        "username":"asdasd",
+        "correo": "erickcu@loja.gob.ec",
         "hash": "$2a$10$tnMgD3qG2YXDTYileTbq2ecSIikZWeBDt.U4tIgeALFRdDLccfgwm",
         "id": 4,
+        "rol": "admin_secundario",
         "dateCreated": "2022-07-20T23:36:45.898Z",
         "dateUpdated": "2022-07-20T23:36:45.898Z"
     },
     {
-        "firstName": "diego",
-        "lastName": "leiva",
-        "username": "diego",
-        "hash": "$2a$10$oJrDHMLpHY1MQQm1OFB44u8QdVQfasoaQcNBaeG1lLcIXkxugVJve",
+        "firstName": "david",
+        "lastName": "Alvarez C",
+        "username":"David",
+        "correo": "David@loja.gob.ec",
+        "hash": "$2a$10$tS1oRtKSNkMpC4T5uY8AqOlOQNLh9mylA6SWyE.H.fxgIyIxN7l6m",
         "id": 5,
-        "dateCreated": "2022-07-21T13:09:50.262Z",
-        "dateUpdated": "2022-07-21T13:09:50.262Z"
+        "rol": "admin_secundario",
+        "dateCreated": "2022-07-27T00:06:11.241Z",
+        "dateUpdated": "2022-07-27T00:06:11.241Z"
+    },
+    {
+        "firstName": "adaasd",
+        "lastName": "adsad",
+        "username": "asdasd",
+        "correo": "daalvarez17@utpl.edu.ec",
+        "rol": "asddsa",
+        "hash": "$2a$10$NdfJGF.xNL6fEVoJ2by7fOW69C2GPosFx1/H2nilHKHgzCiuUf2EC",
+        "id": 6,
+        "dateCreated": "2022-07-27T00:27:50.985Z",
+        "dateUpdated": "2022-07-27T00:27:50.985Z"
     }
 ]

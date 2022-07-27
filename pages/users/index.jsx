@@ -33,8 +33,9 @@ function Index() {
                     <tr>
                         <th style={{ width: '30%' }}>Nombre</th>
                         <th style={{ width: '30%' }}>Apellido</th>
-                        <th style={{ width: '30%' }}>Username</th>
-                        <th style={{ width: '10%' }}></th>
+                        <th style={{ width: '30%' }}>Correo</th>
+                        <th style={{ width: '30%' }}>Rol</th>
+                        <th style={{ width: '30%' }}></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -42,8 +43,11 @@ function Index() {
                         <tr key={user.id}>
                             <td>{user.firstName}</td>
                             <td>{user.lastName}</td>
-                            <td>{user.username}</td>
+                            <td>{user.correo}</td>
+                            <td>{user.rol}</td>
+
                             <td style={{ whiteSpace: 'nowrap' }}>
+                                
                                 <Link href={`/users/edit/${user.id}`} className="btn btn-sm btn-primary mr-1">Editar</Link>
                                 <button onClick={() => deleteUser(user.id)} className="btn btn-sm btn-danger btn-delete-user" disabled={user.isDeleting}>
                                     {user.isDeleting 
